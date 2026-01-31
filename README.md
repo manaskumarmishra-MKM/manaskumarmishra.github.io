@@ -2,8 +2,8 @@
 Personal developer portfolio showcasing AI and software projects
 ![Portfolio Preview](assets/portfolio-preview.png)
 
- Live Website: https://-Manas-Kumar-Mishra.github.io
-
+ Live Website: [https://-Manas-Kumar-Mishra.github.io
+](https://github.com/manaskumarmishra-MKM/-Manas-Kumar-Mishra.git)
 ---
 
 About Me
