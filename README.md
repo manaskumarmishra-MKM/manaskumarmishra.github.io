@@ -2,9 +2,7 @@
 Personal developer portfolio showcasing AI and software projects
 ![Portfolio Preview](assets/portfolio-preview.png)
 
- Live Website: [manaskumarmishra.com
- ](http://manaskumarmishra.com/)
----
+ Live Website:  https://manaskumarmishra-mkm.github.io/manaskumarmishra.github.io/
 
 About Me
 Computer Science student focused on AI-driven systems, computer vision, and strong algorithmic problem solving.
